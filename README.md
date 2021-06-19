@@ -1,0 +1,2 @@
+# AzureWebAppCode
+only for azure
